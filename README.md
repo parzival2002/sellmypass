@@ -1,0 +1,2 @@
+# sellmypass
+## We understand the frustration of missing out on your favorite events due to sold-out tickets or the hassle of trying to resell your unwanted tickets. That's why we've created a platform that streamlines the process of buying and selling event passes. Whether you're looking for tickets to a music festival, a sports game, a theater performance, or any other type of event, we've got you covered.
